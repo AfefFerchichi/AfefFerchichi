@@ -2,9 +2,9 @@
 
 ## Full Stack Developer | Cloud & DevOps Enthusiast | Teleinformatics Specialist
 
-I'm a seasoned Full Stack Engineer with a robust background in teleinformatics engineering, a knack for cloud services, and a passion for building scalable and efficient software solutions. With expertise in modern frameworks and a multi-faceted skill set, I strive to create impactful software that stands the test of time.
+I am a MERN Stack Developer with a strong foundation in building robust, scalable applications using MongoDB, Express, React, and Node.js. My journey is currently augmented by an avid pursuit of knowledge in cloud architectures and DevOps methodologies, aiming to broaden my expertise and embrace the full spectrum of modern software development.
 
-- 🔭 I’m currently working on **Indigo Vizual**, a cloud-based platform for compelling content delivery.
+- 🔭 I’m currently focused on mastering **cloud-native architectures** and exploring **microservices patterns**.
 - 🌱 I’m always learning about **Cloud Technologies** and **DevOps** practices.
 - 👯 I’m looking to collaborate on **open source projects** and **innovative software solutions**.
 - 🤔 I’m open for discussions on **System Architecture** and **Software Optimization**.
