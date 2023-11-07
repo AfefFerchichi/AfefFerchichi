@@ -48,3 +48,6 @@ I am a MERN Stack Developer with a strong foundation in building robust, scalabl
 
 [3]: https://www.linkedin.com/in/afef-ferchichi/
 [6]: https://github.com/afefferhichi
+
+#### Note on Previous Work
+Previously contributed to open-source projects and developed a range of applications under my former GitHub account. Due to 2FA issues, that account is no longer active. You can view some of my past work [here](https://github.com/Afefferhichi). I'm continuing to build and contribute to projects with the same passion and dedication.
